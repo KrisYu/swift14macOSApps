@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>url</key>
+		<string>https://www.reddit.com/r/orlybooks/</string>
+		<key>edition</key>
+		<string>1st edition</string>
+		<key>cover</key>
+		<string>fawRchq</string>
+		<key>title</key>
+		<string>Copying and Pasting from Stack Overflow</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.reddit.com/r/orlybooks/</string>
+		<key>edition</key>
+		<string>1st edition</string>
+		<key>cover</key>
+		<string>fhgzVEt</string>
+		<key>title</key>
+		<string>Googling the Error Message</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.reddit.com/r/orlybooks/</string>
+		<key>edition</key>
+		<string>1st edition</string>
+		<key>cover</key>
+		<string>DQcks8u</string>
+		<key>title</key>
+		<string>Resumé Driven Development</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.reddit.com/r/orlybooks/</string>
+		<key>edition</key>
+		<string>1st edition</string>
+		<key>cover</key>
+		<string>lceOAtI</string>
+		<key>title</key>
+		<string>Writing Code that Nobody Else Can Read</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.reddit.com/r/orlybooks/</string>
+		<key>edition</key>
+		<string>1st edition</string>
+		<key>cover</key>
+		<string>DN02rVM</string>
+		<key>title</key>
+		<string>Excuses for not writing Unit Tests</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.reddit.com/r/orlybooks/</string>
+		<key>edition</key>
+		<string>1st edition</string>
+		<key>cover</key>
+		<string>OD3hWSR</string>
+		<key>title</key>
+		<string>Blaming the User</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.reddit.com/r/orlybooks/</string>
+		<key>edition</key>
+		<string>1st edition</string>
+		<key>cover</key>
+		<string>v8hVVdF</string>
+		<key>title</key>
+		<string>Trying Stuff until It Works</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.reddit.com/r/orlybooks/</string>
+		<key>edition</key>
+		<string>1st edition</string>
+		<key>cover</key>
+		<string>oM9yCym</string>
+		<key>title</key>
+		<string>useless Whiteboard Interviews</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.reddit.com/r/orlybooks/</string>
+		<key>edition</key>
+		<string>1st edition</string>
+		<key>cover</key>
+		<string>mVEL2kW</string>
+		<key>title</key>
+		<string>Taking on Needless Dependencies</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.reddit.com/r/orlybooks/</string>
+		<key>edition</key>
+		<string>1st edition</string>
+		<key>cover</key>
+		<string>Yl48tQw</string>
+		<key>title</key>
+		<string>Rewriting Your Front End Every Six Weeks</string>
+	</dict>
+</array>
+</plist>

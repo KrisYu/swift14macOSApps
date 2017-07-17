@@ -4,8 +4,6 @@ macOS related API is miscellaneous, and developing macOS is more evil, you can u
 
 I copycat and followed some tutorials to make this 14 osx apps. Some are my own thoughts. 😀
 
-Be cautious, some code are dangerous to use in a real production.
-
 Apparently this was inspired by many SwiftXXProjects or XXDaysWithSwift. 
 
 Next step is slow down,have fun,learn cautiously, maybe trying to perfect some code for real production usage.
@@ -13,14 +11,17 @@ Next step is slow down,have fun,learn cautiously, maybe trying to perfect some c
 01 - TouchBarMahjong
 
 ![](01-TouchBarMahjong/TouchBarMahjong.gif)
+
 02 - Notepad
 
 ![](02-Notepad/notepad.png)
 
 03 - MacSpeak
+
 ![](03-MacSpeak/app.png)
 
 04 - ORLYStore
+
 ![](04-ORLYStore/ORLYStore.png)
 
 
